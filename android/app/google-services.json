@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071403757401",
+    "project_id": "tripbudgeter-7c401",
+    "storage_bucket": "tripbudgeter-7c401.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071403757401:android:86f8a175ccd446588ca648",
+        "android_client_info": {
+          "package_name": "com.example.tripbudgeter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kGMCWGt_UA9ojjcqgy6XtBswe8GSDcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
